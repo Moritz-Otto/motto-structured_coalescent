@@ -21,7 +21,7 @@ import random
 import scipy
 import scipy.sparse as sps
 import scipy.sparse.linalg as sp_linalg
-#from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LinearRegression
 from matplotlib import pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import cm
